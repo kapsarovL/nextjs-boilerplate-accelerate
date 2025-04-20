@@ -1,0 +1,45 @@
+
+{
+
+  "AdminDashboard": {
+    "title": "Admin Dashboard",
+    "welcome": "Welcome, Admin {name}!",
+    "description": "Manage users, products, and view site statistics here.",
+    "users": "Users",
+    "products": "Products",
+    "revenue": "Revenue",
+    "usersTableTitle": "Registered Users",
+    "productsListTitle": "Store Products (from Stripe)",
+    "overviewTitle": "Overview"
+  },
+  "MemberDashboard": {
+    "title": "Member Dashboard",
+    "welcome": "Welcome, {name}!",
+    "description": "This is your personal dashboard space.",
+    "purchasesListTitle": "My Purchases",
+    "noPurchases": "You haven't made any purchases yet."
+  },
+  "UsersTable": {
+    "id": "User ID",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "noUsers": "No users found."
+  },
+  "ProductsList": {
+    "price": "Price:",
+    "buyNow": "Buy Now", 
+    "noProducts": "No products found in Stripe.",
+    "error": "Error fetching products."
+  },
+  "PurchasesList": {
+    "product": "Product/Price ID",
+    "date": "Purchase Date",
+    "status": "Status",
+    "noPurchases": "No purchases found."
+  },
+  "DashboardOverview": {
+     "totalUsers": "Total Users",
+     "moreStats": "More stats coming soon..."
+  }
+}

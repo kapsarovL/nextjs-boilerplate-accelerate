@@ -1,0 +1,44 @@
+{
+    
+    "AdminDashboard": {
+      "title": "Panel de Administración",
+      "welcome": "¡Bienvenido, Admin {name}!",
+      "description": "Gestiona usuarios, productos y visualiza estadísticas del sitio aquí.",
+      "users": "Usuarios",
+      "products": "Productos",
+      "revenue": "Ingresos",
+      "usersTableTitle": "Usuarios Registrados",
+      "productsListTitle": "Productos de la Tienda (desde Stripe)",
+      "overviewTitle": "Visión General"
+    },
+    "MemberDashboard": {
+      "title": "Panel de Miembro",
+      "welcome": "¡Bienvenido, {name}!",
+      "description": "Este es tu espacio personal en el panel.",
+      "purchasesListTitle": "Mis Compras",
+      "noPurchases": "Aún no has realizado ninguna compra."
+    },
+    "UsersTable": {
+      "id": "ID Usuario",
+      "name": "Nombre",
+      "email": "Correo",
+      "role": "Rol",
+      "noUsers": "No se encontraron usuarios."
+    },
+    "ProductsList": {
+      "price": "Precio:",
+      "buyNow": "Comprar Ahora", 
+      "noProducts": "No se encontraron productos en Stripe.",
+      "error": "Error al obtener productos."
+    },
+    "PurchasesList": {
+      "product": "ID Producto/Precio",
+      "date": "Fecha de Compra",
+      "status": "Estado",
+      "noPurchases": "No se encontraron compras."
+    },
+    "DashboardOverview": {
+       "totalUsers": "Usuarios Totales",
+       "moreStats": "Más estadísticas próximamente..."
+    }
+  }
